@@ -23,8 +23,13 @@
             ///else {  Console.WriteLine("no"); }  
             ///
 
-            Duration d1 = new Duration(3600);
-            Console.WriteLine(d1.ToString());
+            /// Duration d1 = new Duration(3600);
+            /// Console.WriteLine(d1.ToString());
+
+           ///Console.WriteLine(maths.Add(1,2));
+            ///Console.WriteLine(maths.Subtract(5,4));
+            ///Console.WriteLine(maths.Multiply(5,6));
+            ///Console.WriteLine(maths.Divide(14,7));  
 
 
         }
